@@ -1,5 +1,5 @@
 # 💫 About Me:
-working on<br>collaborate<br>hello<br>world yyo
+Priyadarshani Rajan<br>Frontend Developer<br>Passionate about Linux
 
 
 ## 🌐 Socials:
