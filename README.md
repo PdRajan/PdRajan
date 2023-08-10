@@ -3,6 +3,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pdrajan&theme=radical&hide_border=true)<br/>
 
 
-<img width="950px" src="https://wakatime.com/share/@pdrajan/7586139e-cddb-47f8-bc96-c19912534f4b.svg" />
+<img width="90%" src="https://wakatime.com/share/@pdrajan/7586139e-cddb-47f8-bc96-c19912534f4b.svg" />
 
 
