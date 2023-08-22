@@ -9,7 +9,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,scss,linux,django)
 <br/>
 
-### Socials
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/pdrajan/">
